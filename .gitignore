@@ -1,0 +1,6 @@
+env/
+*.pyc
+__pycache__
+.mypy_cache
+*.db
+node_modules
